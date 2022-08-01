@@ -1,0 +1,64 @@
+h1 {
+   border-bottom: 1px solid white;
+   color: #8AC6E9;
+   font-weight: 600;
+   line-height: 24px;
+   padding: 10px;
+   text-align: center;
+ }
+
+form {
+   background: white;
+   border: 1px solid #8AC6E9;
+   display: flex;
+   margin: 0 auto;
+   margin-top: 150px;
+   margin-bottom: 150px;
+   flex-direction: column;
+   max-width: 500px;
+   padding: 50px 50px;
+}
+
+input {
+   border: 1px solid lightgray;
+   border-radius: 4px;
+   box-sizing: border-box;
+   padding: 10px;
+   width: 100%;
+}
+
+label {
+   color: #8AC6E9;
+   display: block;
+   font-family: sans-serif;
+   margin-top: 10px;
+}
+
+textarea {
+  border: 1px solid lightgray;
+}
+
+.submitButton {
+   background-color: #8AC6E9;
+   color: white;
+   font-size: 18px;
+   font-weight: 600;
+   margin: 20px 0px;
+}
+
+.socialIcons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+}
+
+.socialIcons a{
+  color: #8AC6E9;
+}
+
+@media screen and (max-width: 960px) {
+  form {
+    max-width: 400px;
+  }
+}
