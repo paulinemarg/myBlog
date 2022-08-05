@@ -10,6 +10,7 @@ h1 {
 form {
    background: white;
    border: 1px solid #8AC6E9;
+   border-radius: 10px;
    display: flex;
    margin: 0 auto;
    margin-top: 150px;
