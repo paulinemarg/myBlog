@@ -1,7 +1,28 @@
-.impressum-content {
+.impressum {
   color: #8AC6E9;
+  width: 50%;
   display: flex;
-  align-items: center;
   justify-content: center;
-  white-space: pre-wrap;
+  text-align: center;
+  margin: 0 auto;
+  flex-direction: column;
+}
+
+.impressum-content {
+  margin-top: 20px;
+}
+
+.impressum-content a{
+  color: #8AC6E9;
+}
+
+.impressum-content p{
+  font-size: 16px;
+}
+
+.haftung-inhalt,
+.haftung-links,
+.urheberecht,
+.datenschutz {
+  margin-top: 10px;
 }
