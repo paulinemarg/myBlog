@@ -7,17 +7,17 @@
   align-items: center;
 }
 
-.website-rights, .impressum {
+.website-rights, .impressumTitle {
   color: #fff;
 }
 
-.impressum {
+.impressumTitle {
   text-decoration: none;
   font-size: small;
   margin-right: 0.5rem;
 }
 
-.impressum:hover {
+.impressumTitle:hover {
   opacity: 0.5;
 }
 

@@ -7,7 +7,7 @@ function Footer() {
     <div className='footer-container'>
       <Link 
       to='/impressum' 
-      className='impressum'
+      className='impressumTitle'
       >
       impressum
       </Link>
