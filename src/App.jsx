@@ -6,6 +6,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import About from './components/pages/About'
 import Contact from './components/pages/Contact';
 import Impressum from './components/Impressum';
+import Tech from './components/pages/Tech';
 
 function App() {
   return (
@@ -14,9 +15,10 @@ function App() {
         <Navbar />
         <Switch>
           <Route path='/' exact component={Home} />
-          <Route path='/About' component={About} />
+          <Route path='/about' component={About} />
           <Route path='/contact' component={Contact} />
-          <Route path='/Impressum' component={Impressum} />
+          <Route path='/impressum' component={Impressum} />
+          <Route path='/tech' component={Tech} />
         </Switch>
       </Router>
     </>
