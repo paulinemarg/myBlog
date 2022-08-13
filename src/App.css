@@ -12,3 +12,145 @@
   justify-content: center;
   font-size: 3rem;
 }
+
+h1 {
+   border-bottom: 1px solid white;
+   color: #8AC6E9;
+   font-weight: 600;
+   line-height: 24px;
+   padding: 10px;
+   text-align: center;
+ }
+
+form {
+   background: white;
+   border: 1px solid #8AC6E9;
+   border-radius: 10px;
+   display: flex;
+   margin: 0 auto;
+   margin-top: 150px;
+   margin-bottom: 150px;
+   flex-direction: column;
+   max-width: 500px;
+   padding: 50px 50px;
+}
+
+input {
+   border: 1px solid lightgray;
+   border-radius: 4px;
+   box-sizing: border-box;
+   padding: 10px;
+   width: 100%;
+}
+
+label {
+   color: #8AC6E9;
+   display: block;
+   font-family: sans-serif;
+   margin-top: 10px;
+}
+
+textarea {
+  border: 1px solid lightgray;
+}
+
+.submitButton {
+   background-color: #8AC6E9;
+   color: white;
+   font-size: 18px;
+   font-weight: 600;
+   margin: 20px 0px;
+}
+
+.socialIcons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+}
+
+.socialIcons a{
+  color: #8AC6E9;
+}
+
+.about {
+  display: flex;
+  flex-direction: column;
+}
+
+.polaroid {
+  margin: 0 auto;
+  margin-top: 150px;
+  border-radius: 10px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 400px;
+}
+
+div.polaroid {
+  max-width: 500px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.container {
+  padding: 20px 10px;
+  color: #8AC6E9;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.tech {
+  color: #8AC6E9;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.tech img{
+  max-width: 800px;
+}
+
+.tech-content {
+  max-width: 800px;
+  line-height: 30px;
+  font-size: large;
+}
+
+.indent {
+  text-indent: 30px;
+}
+
+.tech-content a {
+  color: #8aafc4;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 960px) {
+  form {
+    max-width: 400px;
+  }
+  div.polaroid {
+    max-width: 400px;
+  }
+  img {
+  max-width: 350px;
+  }
+  .tech {
+    align-items: center;
+    max-width: 100%;
+    margin: 10px;
+  }
+  .tech img {
+    max-width: 100%;
+  }
+}

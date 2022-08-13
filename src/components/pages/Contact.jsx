@@ -2,7 +2,7 @@ import React, { useRef } from 'react';
 import emailjs from '@emailjs/browser';
 import { TbWorld } from 'react-icons/tb';
 import { FiLinkedin } from 'react-icons/fi';
-import './Contact.css';
+import '../../App.css';
 
 function Contact() {
   const form = useRef();
