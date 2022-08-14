@@ -3,10 +3,10 @@ import '../../App.css';
 
 export default function Tech() {
   return (
-    <div className='tech'>
+    <div className='article'>
       <h1>How I Entered the Tech World</h1>
         <img src='images/laptop.jpg' alt='' />
-        <div className="tech-content">
+        <div className="article-content">
           <div className='indent'>
             I am a business graduate with a 6 years of experience as an insurance consultant. I loved the insurance industry, because I love solving problems and finding solutions, in this case determining the insurance coverage that best met client's need.
           </div>
