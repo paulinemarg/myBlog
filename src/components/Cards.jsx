@@ -17,28 +17,28 @@ function Cards() {
             />
             <CardItem
               src='images/motivation.jpg' // Photo by Cristofer Maximilian on Unsplash
-              text='How I stay motivated'
-              label='31 July 2022'
-              path='/'
+              text='How To stay motivated'
+              label='21 Aug 2022'
+              path='/motive'
             />
           </ul>
           <ul className='cards__items'>
              <CardItem
               src='images/growth.jpg' // Photo by Kyle Glenn on Unsplash
-              text='Planning my professional development'
-              label='24 July 2022'
-              path='/'
+              text='Planning My Professional Development'
+              label='14 Aug 2022'
+              path='/dev'
             />
             <CardItem
-              src='images/possible.jpg' // Photo by Towfiqu barbhuiya on Unsplash
-              text='How challenging is it to come from a Non-Tech Background'
-              label='17 July 2022'
-              path='/'
+              src='images/design.jpg' // Photo by Amélie Mourichon on Unsplash
+              text='Why UI design?'
+              label='07 Aug 2022'
+              path='/design'
             />
             <CardItem
               src='images/coding.jpg' // Photo by AltumCode on Unsplash
               text='How I Entered the Tech World'
-              label='10 July 2022'
+              label='31 July 2022'
               path='/tech'
             />
           </ul>
