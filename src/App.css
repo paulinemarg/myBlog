@@ -108,19 +108,20 @@ div.polaroid {
   width: 100%;
 }
 
-.tech {
+.article {
   color: #8AC6E9;
   justify-content: center;
   align-items: center;
   display: flex;
   flex-direction: column;
+  margin-bottom: 50px;
 }
 
-.tech img{
+.article img{
   max-width: 800px;
 }
 
-.tech-content {
+.article-content {
   max-width: 800px;
   line-height: 30px;
   font-size: large;
@@ -128,9 +129,10 @@ div.polaroid {
 
 .indent {
   text-indent: 30px;
+  margin-bottom: 20px;
 }
 
-.tech-content a {
+.article-content a {
   color: #8aafc4;
   text-decoration: none;
 }
