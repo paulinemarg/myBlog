@@ -10,7 +10,8 @@ export default function About() {
         <div className="container">
           <p>Hi there! Welcome to my Blog!<br></br>
           I am Pauline! A developer and designer.<br></br>
-          I have never thought of writing a blog until recently, when my mentor gave me feedback on my case studies and pointed out that I have exceptional skills of storytelling and presentations. So I have decided to put my skill in use!    
+          My blog is like a journal of my career journey, hope it helps you in some way, if you are in the same boat or thinking of changing career.<br></br> 
+          Visit me every Sunday for a new article!     
           </p>
         </div>
       </div>
