@@ -18,7 +18,7 @@ export default function Design() {
             As part of UX, I have learned about design processes, user psychology, conductiong user research, creating user personas and user stories, lean UX, user flows and diagram, exploratory sketching, rapid prototyping and user testing.
           </div>
           <div className='indent'>
-            Learning UI gave me a new perspective of how to design an app, prior to UI, I have focused only if my app is beautiful, created non sense animations thinking they were nice. But after taking the course, I realised that beautiful doesn't mean functional, understanding your user is the key for your product success and "less is more" is always a good idea. 
+            Learning UI gave me a new perspective of how to design an app, prior to UI, I have focused only if my app is beautiful, created non-sense animations thinking they were nice. But after taking the course, I realised that beautiful doesn't mean functional, understanding your user is the key of your product's success and "less is more" is always a good idea. 
           </div>
         </div>
     </div>
