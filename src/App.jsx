@@ -10,6 +10,7 @@ import Tech from './components/pages/Tech';
 import Dev from './components/pages/Dev';
 import Motive from './components/pages/Motive';
 import Design from './components/pages/Design';
+import Books from './components/pages/Books';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
           <Route path='/dev' component={Dev} />
           <Route path='/motive' component={Motive} />
           <Route path='/design' component={Design} />
+          <Route path='/books' component={Books} />
         </Switch>
       </Router>
     </>
