@@ -13,7 +13,7 @@ function Cards() {
               src='images/books.jpg' // Photo from Unsplash
               text='Books that helped me during UI/UX'
               label='New'
-              path='/'
+              path='/books'
             />
             <CardItem
               src='images/motivation.jpg' // Photo by Cristofer Maximilian on Unsplash
