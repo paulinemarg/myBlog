@@ -17,6 +17,7 @@ export default function Books() {
             <ul>Don't make me think thought me:</ul>
             <li>"Don't make users think": Everything on the web page should be obvious and easy for the user, when users spend time in thinking about what elements on a web page do, it is more likely they will not visit your web page again, since it is complicated. </li>
             <li>"Less is more": You just have to keep everything simple, remove words, icons, unnecessary animations that distract users. Everything should be self explanatory, you should keep everything short and simple.</li>
+            <li>"Number of clicks doesn't matter, as long as they are mindless": Clicks should be obvious and not require any thought. Since clicking is one of the most used action in any application, we need to design it explicitly as possible.</li>
           </div>
           <div className='indent'>
             <h3>Steal Like An Artist</h3>
