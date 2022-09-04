@@ -18,7 +18,7 @@ function Cards() {
             <CardItem
               src='images/motivation.jpg' // Photo by Cristofer Maximilian on Unsplash
               text='How To stay motivated'
-              label='21 Aug 2022'
+              label='28 Aug 2022'
               path='/motive'
             />
           </ul>
@@ -26,19 +26,19 @@ function Cards() {
              <CardItem
               src='images/growth.jpg' // Photo by Kyle Glenn on Unsplash
               text='Planning My Professional Development'
-              label='14 Aug 2022'
+              label='21 Aug 2022'
               path='/dev'
             />
             <CardItem
               src='images/design.jpg' // Photo by Amélie Mourichon on Unsplash
               text='Why UI design?'
-              label='07 Aug 2022'
+              label='14 Aug 2022'
               path='/design'
             />
             <CardItem
               src='images/coding.jpg' // Photo by AltumCode on Unsplash
               text='How I Entered the Tech World'
-              label='31 July 2022'
+              label='07 July 2022'
               path='/tech'
             />
           </ul>
