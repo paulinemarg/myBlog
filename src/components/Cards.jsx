@@ -38,7 +38,7 @@ function Cards() {
             <CardItem
               src='images/coding.jpg' // Photo by AltumCode on Unsplash
               text='How I Entered the Tech World'
-              label='07 July 2022'
+              label='07 Aug 2022'
               path='/tech'
             />
           </ul>
