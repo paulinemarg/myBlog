@@ -21,6 +21,18 @@ export default function Books() {
           </div>
           <div className='indent'>
             <h3>Steal Like An Artist</h3>
+            Steal like an Artist is a masterpiece by Austin Kleon and again was suggested by my tutor. This book helps you understand that no art is completely original, all art are influenced by the art that came before them. You "steal" from the work of your heroes, you personalise it and create a new art. 
+            <ul>Some of my favorites from this book:</ul>
+            <li>“Every new idea is just a mashup or a remix of one or more previous ideas.”</li>
+            <li>“Your job is to collect good ideas. The more good ideas you collect, the more you can choose from to be influenced by.”</li>
+            <li>“Collect books, even if you don’t plan on reading them right away. Nothing is more important than an unread library.”</li>
+            <li>“Carry a notebook and a pen with you wherever you go. Get used to pulling it out and jotting down your thoughts and observations.”</li>
+            <li>“If you have two or three real passions, don’t feel like you have to pick and choose between them. Don’t discard. Keep all your passions in your life. “</li>
+            <li>"Don’t make excuses for not working-make things with the time, space, and materials you have, right now.”</li>
+            <li>“If you ever find that you’re the most talented person in the room, you need to find another room.”</li>
+            <li>“Instead of keeping a rejection file, keep a praise file.”</li>
+            <li>“It’s the side projects that really take off.”</li>
+            <li>“If you’re out of ideas, wash the dishes. Take a really long walk. Stare at a spot on the wall for as long as you can.”</li>
           </div>
           <div className='indent'>
             <h3>The Design of Everyday Things</h3>
