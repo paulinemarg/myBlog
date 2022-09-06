@@ -37,10 +37,13 @@ export default function Books() {
           <div className='indent'>
             <h3>The Design of Everyday Things</h3>
             The design of everyday things is written by cognitive scientist and usability engineer Donald Norman and it was suggested by my mentor. The Design of Everyday Things explains that design serves the communication between the product and the user and we can optimize this commnication by providing good and usable product which will make their experience enjoyable. 
-            <ul>the Design of Everyday Things thought me:</ul>
-            <li>We should always design with user and their needs in mind, which is the concept of Human-centered design.</li>
-            <li>Always ask yourself: "Is it easy for the user to figure out what actions to perform to use the product?", "Is it easy for the user to figure out how the product can be used?"</li>
+            <ul>The Design of Everyday Things thought me:</ul>
+            <li>Two of the most important characteristics of good design are discoverability and understanding. Always ask yourself: "Is it easy for the user to figure out what actions to perform to use the product?", "Is it easy for the user to figure out how the product can be used?".</li>
+            <li>We should always design with user and their needs in mind, without a thorough understanding of people, designs are prone to being flawed, difficult to use, and difficult to understand.</li>
+            <li>We rely on a combination of knowledge in the head and knowledge in the world to get us where we need to go. Designers must understand this in order to predict why and how products will succeed or fail.</li>
+            <li>When no other option appears, simply design everything the same way so people only have to learn once.</li>
             <li>It is not the fault of the user for errors and malfunctions but rather the lack of intuitive guidance which is the result of poor design.</li>
+            <li>Good designers never start to solve problems given to them, instead they try to understand what the real issue is.</li>
           </div>
           <div className='indent'>
             <h3>Hooked</h3>
