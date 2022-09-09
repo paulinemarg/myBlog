@@ -20,6 +20,7 @@ export default function Books() {
             <li>"Number of clicks doesn't matter, as long as they are mindless": Since clicking is one of the most used action in any application, we need to design it explicitly as possible.</li>
             <li>Design pages for scanning, not reading. People are always in a hurry and eager to get the job done quickly, so create a clear visual hierarchy and break pages up into clearly defined areas.</li>
             <li>"There's no place like home": When the user is lost, they need a single click to get them home, because home gives them sense of assurance, therefore make home button visible and accessible.</li>
+            <li>"A way to search": unless a site is very small, every page should have either a search box or a link to a search page.</li>
             <li>"The only way to find out if your site really works is to test it": You have already worked on your site for too long, you know too much and can not see any flaws, therefore conducting usability tests will give you new perspective.</li>
           </div>
           <div className='indent'>
