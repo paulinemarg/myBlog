@@ -56,6 +56,7 @@ export default function Books() {
             <li>There are two factors in accessing habit-forming: frequency or how often product-related behaviors occur and perceived utility or how often and rewarding a behavior is in the user's mind.</li>
             <li>A behavior with enough frequency and perceived utility is more likely to become a default behavior in the future.</li>
             <li>There are four types of external triggers that initiates user behavior: paid triggers such as advertising, earned triggers such as media coverage, relationship triggers such as referral marketing and owned triggers such as email lists.</li>
+            <li>Action is important for successful habit formation. The user must have motivation to complete the desired action and trigger must be present to intitiate the action.</li>
           </div>
         </div>
     </div>
