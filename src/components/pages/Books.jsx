@@ -58,6 +58,7 @@ export default function Books() {
             <li>The Hook Model is the process of connecting user's problem to their own product or service in a way that can form a habit. The model has four phases: trigger, action, variable reward and investment.</li>
             <li>There are four types of external triggers that initiates user behavior: paid triggers such as advertising, earned triggers such as media coverage, relationship triggers such as referral marketing and owned triggers such as email lists.</li>
             <li>Action is important for successful habit formation. The user must have motivation to complete the desired action and trigger must be present to intitiate the action.</li>
+            <li>There are three types of variable rewards: tribe rewards those that satisfy our social needs such as likes, shares and comments, hunt rewards those that satisfy our basic survival instincts and self rewards those that help us in self-determination by providing a sense of accomplishment.</li>
           </div>
         </div>
     </div>
