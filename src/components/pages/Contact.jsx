@@ -25,6 +25,7 @@ function Contact() {
     <div className='form'>
     <form ref={form} onSubmit={sendEmail}>
       <h1 className='contact'>Contact Me</h1>
+      <div className='subtitle'>I love to connect with people from all walks of life, so please don’t hesitate to send me a message.</div>
       <label>Name</label>
       <input type="text" name="user_name" />
       <label>Email</label>
