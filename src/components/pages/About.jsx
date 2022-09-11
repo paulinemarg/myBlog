@@ -9,9 +9,9 @@ export default function About() {
         <img src='images/pauline.jpg' alt="pauline profile pic"/>
         <div className="container">
           <p>Hi there! Welcome to my Blog!<br></br>
-          I am Pauline! A web developer and designer.<br></br>
-          My blog is like a journal of my career journey, hope it helps you in some way, if you are in the same boat or thinking of changing career.<br></br> 
-          Visit my blog every Sunday for a new article!     
+            I am Pauline! A web developer and designer with business background. 
+            I entered the tech world a year ago out of curiosity and immediately developed a passion for coding. <br></br>
+            My blog is like a journal of my career journey, hope it helps you in some way, if you are in the same boat or thinking of changing career.<br></br>
           </p>
         </div>
       </div>
