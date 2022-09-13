@@ -11,8 +11,8 @@ export default function Books() {
             Besides reading articles online, getting inspired from other people's work on Behance, Dribble and viewing websites and design portfolios and galleries, reading design related books have helped me improve my creativity, gave me new perspective and motivated me to pursue my goals.<br></br>
             Below books were either suggested by my tutor or mentor or found by me during my search on the internet.
           </div>
+          <h3>Don't Make Me Think</h3>
           <div className='indent'>
-            <h3>Don't Make Me Think</h3>
             Don't Make Me Think is a book by Steve Krug about human interaction and web usability, it was recommended by my tutor and it was the first design book that I have read. I recommend it to those who are new to UX and user-centered design, it is easy to understand and enjoyable.
             <ul>Don't make me think thought me:</ul>
             <li>"Don't make users think": Everything on the web page should be obvious and easy for the user, when users spend time in thinking about what elements on a web page do, it is more likely they will not visit your web page again, since it is complicated. </li>
@@ -23,8 +23,8 @@ export default function Books() {
             <li>"A way to search": unless a site is very small, every page should have either a search box or a link to a search page.</li>
             <li>"The only way to find out if your site really works is to test it": You have already worked on your site for too long, you know too much and can not see any flaws, therefore conducting usability tests will give you new perspective.</li>
           </div>
+          <h3>Steal Like An Artist</h3>
           <div className='indent'>
-            <h3>Steal Like An Artist</h3>
             Steal like an Artist is a masterpiece by Austin Kleon and again was suggested by my tutor. This book helps you understand that no art is completely original, all art are influenced by the art that came before them. You "steal" from the work of your heroes, you personalise it and create a new art. 
             <ul>Some of my favorites from this book:</ul>
             <li>“Every new idea is just a mashup or a remix of one or more previous ideas.”</li>
@@ -38,8 +38,8 @@ export default function Books() {
             <li>“It’s the side projects that really take off.”</li>
             <li>“If you’re out of ideas, wash the dishes. Take a really long walk. Stare at a spot on the wall for as long as you can.”</li>
           </div>
+          <h3>The Design of Everyday Things</h3>
           <div className='indent'>
-            <h3>The Design of Everyday Things</h3>
             The design of everyday things is written by cognitive scientist and usability engineer Donald Norman and it was suggested by my mentor. The Design of Everyday Things explains that design serves the communication between the product and the user and we can optimize this commnication by providing good and usable product which will make their experience enjoyable. 
             <ul>The Design of Everyday Things thought me:</ul>
             <li>Two of the most important characteristics of good design are discoverability and understanding. Always ask yourself: "Is it easy for the user to figure out what actions to perform to use the product?", "Is it easy for the user to figure out how the product can be used?".</li>
@@ -49,8 +49,8 @@ export default function Books() {
             <li>It is not the fault of the user for errors and malfunctions but rather the lack of intuitive guidance which is the result of poor design.</li>
             <li>Good designers never start to solve problems given to them, instead they try to understand what the real issue is.</li>
           </div>
+          <h3>Hooked</h3>
           <div className='indent'>
-            <h3>Hooked</h3>
             Hooked is about helping customers build habits around using your product or service so that they use it over and over again, it is written by Nir Eyal. I found this book during my search on the internet.
             <ul>Hooked thought me:</ul>
             <li>There are two factors in accessing habit-forming: frequency or how often product-related behaviors occur and perceived utility or how often and rewarding a behavior is in the user's mind.</li>

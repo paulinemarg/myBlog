@@ -22,6 +22,10 @@ h1 {
    text-align: center;
  }
 
+ h3 {
+  margin-top: 50px;
+ }
+
  .subtitle {
   color: #8AC6E9;
   text-align: center;
