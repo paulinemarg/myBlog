@@ -12,7 +12,7 @@ function Cards() {
             <CardItem
               src='images/books.jpg' // Photo from Unsplash
               text='Books that helped me during UI/UX'
-              label='New'
+              label='04 Sep 2022'
               path='/books'
             />
             <CardItem
