@@ -10,13 +10,13 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/books.jpg' // Photo from Unsplash
-              text=''
+              src='images/network.jpg' // Photo Christin Hume from Unsplash
+              text='Why Networking is important'
               label='Coming Soon'
-              path='/books'
+              path='/network'
             />
             <CardItem
-              src='images/read.jpg' // Photo by Annelies Geneyn on Unsplash
+              src='images/read.jpg' // Photo by Christin Hume on Unsplash
               text='Current Read'
               label='18 Sep 2022'
               path='/read'
