@@ -11,6 +11,26 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/books.jpg' // Photo from Unsplash
+              text=''
+              label='Coming Soon'
+              path='/books'
+            />
+            <CardItem
+              src='images/motivation.jpg' // Photo by Cristofer Maximilian on Unsplash
+              text=''
+              label='18 Sep 2022'
+              path='/motive'
+            />
+          </ul>
+          <ul className='cards__items'>
+             <CardItem
+              src='images/interview.jpg' // Photo by Christina wocintechchat.com on Unsplash
+              text='Job Interview Tips'
+              label='11 Sep 2022'
+              path='/dev'
+            />
+            <CardItem
+              src='images/books.jpg' // Photo from Unsplash
               text='Books that helped me during UI/UX'
               label='04 Sep 2022'
               path='/books'
