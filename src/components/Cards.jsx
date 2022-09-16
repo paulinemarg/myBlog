@@ -16,10 +16,10 @@ function Cards() {
               path='/books'
             />
             <CardItem
-              src='images/motivation.jpg' // Photo by Cristofer Maximilian on Unsplash
-              text=''
+              src='images/read.jpg' // Photo by Annelies Geneyn on Unsplash
+              text='Current Read'
               label='18 Sep 2022'
-              path='/motive'
+              path='/read'
             />
           </ul>
           <ul className='cards__items'>
@@ -27,7 +27,7 @@ function Cards() {
               src='images/interview.jpg' // Photo by Christina wocintechchat.com on Unsplash
               text='Job Interview Tips'
               label='11 Sep 2022'
-              path='/dev'
+              path='/interview'
             />
             <CardItem
               src='images/books.jpg' // Photo from Unsplash
