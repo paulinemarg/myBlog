@@ -13,6 +13,7 @@ import Design from './components/pages/Design';
 import Books from './components/pages/Books';
 import Interview from './components/pages/Interview';
 import Read from './components/pages/Read';
+import Network from './components/pages/Network';
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
           <Route path='/books' component={Books} />
           <Route path='/interview' component={Interview} />
           <Route path='/read' component={Read} />
+          <Route path='/network' component={Network} />
         </Switch>
       </Router>
     </>
