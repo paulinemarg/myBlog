@@ -12,6 +12,7 @@ import Motive from './components/pages/Motive';
 import Design from './components/pages/Design';
 import Books from './components/pages/Books';
 import Interview from './components/pages/Interview';
+import Read from './components/pages/Read';
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
           <Route path='/design' component={Design} />
           <Route path='/books' component={Books} />
           <Route path='/interview' component={Interview} />
+          <Route path='/read' component={Read} />
         </Switch>
       </Router>
     </>
