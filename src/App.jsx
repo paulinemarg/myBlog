@@ -11,6 +11,7 @@ import Dev from './components/pages/Dev';
 import Motive from './components/pages/Motive';
 import Design from './components/pages/Design';
 import Books from './components/pages/Books';
+import Interview from './components/pages/Interview';
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
           <Route path='/motive' component={Motive} />
           <Route path='/design' component={Design} />
           <Route path='/books' component={Books} />
+          <Route path='/interview' component={Interview} />
         </Switch>
       </Router>
     </>
