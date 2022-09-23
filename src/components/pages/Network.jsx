@@ -8,6 +8,7 @@ export default function Network() {
         <img src='images/network.jpg' alt='' />
         <div className="article-content">
           <div className='indent'>
+            Networking helps you meet people at all professional levels, boosts your professional confidence, is a good source of knowledge and creates not just connections but also opportunities.
           </div>
         </div>
     </div>
