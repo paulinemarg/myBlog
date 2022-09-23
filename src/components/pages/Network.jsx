@@ -10,6 +10,10 @@ export default function Network() {
           <div className='indent'>
             Networking helps you meet people at all professional levels, boosts your professional confidence, is a good source of knowledge and creates not just connections but also opportunities.
           </div>
+          <div className='indent'>
+            As a career changer, networking is critical for building relationships and being noticed. Building a successful image takes a lot of time and drive, so it's good to have a network to support you in your journey. 
+            Surrounding yourself with people who share similar passion and ambition will encourage you to keep on moving forward.
+          </div>
         </div>
     </div>
   );
