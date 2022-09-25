@@ -18,6 +18,9 @@ export default function Network() {
             By regularly attending social events and tech meet ups will help you build your image, people will begin to recognize you and you are more likely to get referrals. Therefore being visible and getting noticed will 
             automatically boost your professional experience.
           </div>
+          <div className='indent'>
+            Networking will help you expand your knowledge and allow you to see things from another perspective. Other people stories and experiences will provide you with an opportunity to learn and avoid mistakes.
+          </div>
         </div>
     </div>
   );
