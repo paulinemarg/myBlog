@@ -15,7 +15,8 @@ export default function Network() {
             But that's not the only benefit of networking. It also boosts your professional confidence, is a good source of knowledge and creates not just connections but also opportunities.
           </div>
           <div className='indent'>
-
+            By regularly attending social events and tech meet ups will help you build your image, people will begin to recognize you and you are more likely to get referrals. Therefore being visible and getting noticed will 
+            automatically boost your professional experience.
           </div>
         </div>
     </div>
