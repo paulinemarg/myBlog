@@ -21,6 +21,9 @@ export default function Network() {
           <div className='indent'>
             Networking will help you expand your knowledge and allow you to see things from another perspective. Other people stories and experiences will provide you with an opportunity to learn and avoid mistakes.
           </div>
+          <div className='indent'>
+            Networking will create not just connections but also opportunities, if person A in your network knows person B who has a need that matches your qualification and if you made a good impression to person A, they will most likely refer you to person B. 
+          </div>
         </div>
     </div>
   );
