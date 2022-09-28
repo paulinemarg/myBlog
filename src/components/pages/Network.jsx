@@ -24,6 +24,9 @@ export default function Network() {
           <div className='indent'>
             Networking will create not just connections but also opportunities, if person A in your network knows person B who has a need that matches your qualification and if you made a good impression to person A, they will most likely refer you to person B. 
           </div>
+           <div className='indent'>
+            If you're an introvert like me, networking may seem a lot at first but as discussed it is necessary if you want to get noticed and create a meaningful and impactful relationships. It will also make you more confident by getting comfortable with discomfort. 
+          </div>
         </div>
     </div>
   );
