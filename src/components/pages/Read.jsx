@@ -17,6 +17,8 @@ export default function Read() {
             <li>“Ultimately, it is your commitment to the process that will determine your progress.”</li>
             <li>“Getting 1 percent better every day counts for a lot in the long-run.”</li>
             <li>“It is a simple two-step process: Decide the type of person you want to be. Prove it to yourself with small wins.”</li>
+            <li>“The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become.”</li>
+            <li>“A habit is a behavior that has been repeated enough times to become automatic.”</li>
           </div>
         </div>
     </div>
