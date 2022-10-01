@@ -8,6 +8,7 @@ export default function Read() {
         <img src='images/read.jpg' alt='' />
         <div className="article-content">
           <div className='indent'>
+            My current read is the Atomic Habits by James Clear. I found this book while I was searrching online for good reads. 
           </div>
         </div>
     </div>
