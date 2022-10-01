@@ -19,6 +19,9 @@ export default function Read() {
             <li>“It is a simple two-step process: Decide the type of person you want to be. Prove it to yourself with small wins.”</li>
             <li>“The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become.”</li>
             <li>“A habit is a behavior that has been repeated enough times to become automatic.”</li>
+            <li>“One of the best ways to build a new habit is to identify a current habit you already do each day and then stack your new behavior on top. This is called habit stacking.”</li>
+            <li>“Small changes in context can lead to large changes in behavior over time.”</li>
+            <li>“Once a habit is formed, it is unlikely to be forgotten.”</li>
           </div>
         </div>
     </div>
