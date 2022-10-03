@@ -15,6 +15,8 @@ export default function Interview() {
             <li>Give your body what it needs to feel its best, which is rest and fuel </li>
             <li>Go for a walk on interview day to clear your mind and pick up a little boost</li>
             <li>Practice some positive affirmations</li>
+            <li>Skip going over prepared materials/questions on interview day</li>
+            <li>Breathe and remember why are you doing this in the first place</li>
           </div>
         </div>
     </div>
