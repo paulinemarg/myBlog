@@ -12,7 +12,7 @@ function Cards() {
             <CardItem
               src='images/network.jpg' // Photo Christin Hume from Unsplash
               text='Why Networking is important'
-              label='Coming Soon'
+              label='25 Sep 2022'
               path='/network'
             />
             <CardItem
