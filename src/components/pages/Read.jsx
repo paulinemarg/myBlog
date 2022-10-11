@@ -8,7 +8,7 @@ export default function Read() {
         <img src='images/read.jpg' alt='' />
         <div className="article-content">
           <div className='indent'>
-            My current read is the Atomic Habits by James Clear. I found this book while I was searrching online for good reads. An atomic habit is a small daily practices that are easy to do and will compound into remarkable results if you stick with them for years. 
+            My current read is the Atomic Habits by James Clear. I found this book while I was searching online for good reads. An atomic habit is a small daily practices that are easy to do and will compound into remarkable results if you stick with them for years. 
           </div>
           <div className="indent">
             <ul>Sayings from the book that stuck in my head:</ul>
