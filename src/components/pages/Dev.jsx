@@ -16,7 +16,7 @@ export default function Dev() {
             <li>Online Courses (There are a lot of free as well as paid courses available online)</li>
             <li>Watching youtube videos</li>
             <li>Reading articles and documentations</li>
-            <li>Testing myself with quizes and coding challenges</li>
+            <li>Testing myself with quizzes and coding challenges</li>
             <li>Volunteering as a web developer for an NGO, for a friend who needs a website for their startup, etc... (Even though you're not getting paid but you are getting a chance to practice your skills in a real world projects!)</li>
           </div>
           <div className='indent'>
