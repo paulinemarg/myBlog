@@ -40,7 +40,7 @@ export default function Books() {
           </div>
           <h3>The Design of Everyday Things</h3>
           <div className='indent'>
-            The design of everyday things is written by cognitive scientist and usability engineer Donald Norman and it was suggested by my mentor. The Design of Everyday Things explains that design serves the communication between the product and the user and we can optimize this commnication by providing good and usable product which will make their experience enjoyable. 
+            The design of everyday things is written by cognitive scientist and usability engineer Donald Norman and it was suggested by my mentor. The Design of Everyday Things explains that design serves the communication between the product and the user and we can optimize this communication by providing good and usable product which will make their experience enjoyable. 
             <ul>The Design of Everyday Things thought me:</ul>
             <li>Two of the most important characteristics of good design are discoverability and understanding. Always ask yourself: "Is it easy for the user to figure out what actions to perform to use the product?", "Is it easy for the user to figure out how the product can be used?".</li>
             <li>We should always design with user and their needs in mind, without a thorough understanding of people, designs are prone to being flawed, difficult to use, and difficult to understand.</li>
