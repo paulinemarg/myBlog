@@ -12,7 +12,7 @@ export default function Dev() {
             Therefore I have decided to work on my newly gained skills first and when I feel that I have mastered them I can move on to new ones.
           </div>
           <div className='indent'>
-            <h3>Ways I Improve My Skils:</h3>
+            <h3>Ways I Improve My Skills:</h3>
             <li>Online Courses (There are a lot of free as well as paid courses available online)</li>
             <li>Watching youtube videos</li>
             <li>Reading articles and documentations</li>
